@@ -9,4 +9,8 @@
 import HelloWorld from '@/components/HelloWorld.vue'
 </script>
 
-<style scoped></style>
+<style scoped>
+h1 {
+  color: var(--primaryColor);
+}
+</style>
